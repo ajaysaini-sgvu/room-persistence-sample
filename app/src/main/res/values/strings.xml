@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room Persistent</string>
+
+    <string name="main_activity_btn_click_here">Click Here!!</string>
+</resources>
